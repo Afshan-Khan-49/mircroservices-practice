@@ -14,3 +14,7 @@ currency-exchange-service/mvnw
 currency-exchange-service/mvnw.cmd
 currency-exchange-service/.mvn/wrapper/maven-wrapper.jar
 currency-exchange-service/.mvn/wrapper/maven-wrapper.properties
+currency-conversion-service/mvnw
+currency-conversion-service/mvnw.cmd
+currency-conversion-service/.mvn/wrapper/maven-wrapper.jar
+currency-conversion-service/.mvn/wrapper/maven-wrapper.properties
