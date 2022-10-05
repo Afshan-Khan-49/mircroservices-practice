@@ -10,3 +10,7 @@ naming-server/mvnw
 naming-server/mvnw.cmd
 naming-server/.mvn/wrapper/maven-wrapper.jar
 naming-server/.mvn/wrapper/maven-wrapper.properties
+currency-exchange-service/mvnw
+currency-exchange-service/mvnw.cmd
+currency-exchange-service/.mvn/wrapper/maven-wrapper.jar
+currency-exchange-service/.mvn/wrapper/maven-wrapper.properties
