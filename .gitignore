@@ -6,3 +6,7 @@ spring-cloud-config-server/mvnw
 spring-cloud-config-server/mvnw.cmd
 spring-cloud-config-server/.mvn/wrapper/maven-wrapper.jar
 spring-cloud-config-server/.mvn/wrapper/maven-wrapper.properties
+naming-server/mvnw
+naming-server/mvnw.cmd
+naming-server/.mvn/wrapper/maven-wrapper.jar
+naming-server/.mvn/wrapper/maven-wrapper.properties
